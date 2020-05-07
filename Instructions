@@ -1,0 +1,8 @@
+The zip contains 2 files here is how you access the code for each:
+
+workspace.zip - Download the app connect enterprise toolkit from here https://www.ibm.com/marketing/iwm/iwm/web/dispatcher.do?source=swg-wmbfd.
+Then place the contents of the zip to this file path C:\Users\[USERNAME]\IBM\ACET11\workspace, 
+This will allow you to see how each document is related and how each flow procedes.
+Secondly if you only want to see the indivudual ESQL files you may access them by simply navigating through the zip.
+
+prod_db_schema - Download Mysql workbench and run the SQL file, other SQL clients may work but this has not been verified.
